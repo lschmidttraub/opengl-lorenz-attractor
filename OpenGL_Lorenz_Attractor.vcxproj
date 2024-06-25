@@ -165,7 +165,6 @@
     <ClCompile Include="src\Attractor.cpp" />
     <ClCompile Include="src\ErrorHandling.cpp" />
     <ClCompile Include="src\maths\Geometry.cpp" />
-    <ClCompile Include="src\graphics\CameraControls.cpp" />
     <ClCompile Include="src\graphics\Shader.cpp" />
     <ClCompile Include="src\maths\LinearAlgebra.cpp" />
     <ClCompile Include="src\main.cpp" />

@@ -35,6 +35,11 @@ const std::vector<Vertex>& Attractor::getPath() const
   return m_path;
 }
 
+glm::vec3 Attractor::getGrad() const
+{
+  return m_grad;
+}
+
 void Attractor::reset(glm::vec3 position)
 {
   m_path.clear();
@@ -42,7 +47,3 @@ void Attractor::reset(glm::vec3 position)
   speed = 1.0f;
 }
 
-glm::vec3 Attractor::getGrad() const
-{
-  return m_grad;
-}

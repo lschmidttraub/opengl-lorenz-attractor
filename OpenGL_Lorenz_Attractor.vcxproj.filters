@@ -51,9 +51,6 @@
     <ClCompile Include="dep\ImGui\include\ImGui\imgui_widgets.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="src\graphics\CameraControls.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="src\ErrorHandling.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
