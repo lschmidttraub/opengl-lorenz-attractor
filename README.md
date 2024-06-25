@@ -1,5 +1,6 @@
 # OpenGL Lorenz Attractor
 This is a simulation of a Lorenz Attractor using the GLFW and GLEW graphics libraries.
+
 Features:
 - 3D simulation
 - Matrix scaling rotation, translation, perspective projection implemented
